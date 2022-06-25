@@ -1,0 +1,10 @@
+# Project exclude paths
+/spring_boot_01/${project.build.directory}/classes/
+/spring_boot_02/${project.build.directory}/classes/
+/spring_boot_03_mybatis/${project.build.directory}/classes/
+/spring_boot_03_mybatis/target/
+/springboot_05_mybatis_plus/${project.build.directory}/classes/
+/springboot_6_configuration/${project.build.directory}/classes/
+/springboot_07_test/${project.build.directory}/classes/
+/springboot_09_sql/target/
+/springboot_10_h2/target/
